@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+
+    height: 60px;
+    background-color:antiquewhite;
+   
+}
+a{
+    text-decoration: none;
+}
+.menucontact{
+    border:2px solid;
+    background-color: aliceblue;
+   
+}
+.inr{
+    margin-top: 20px;
+}
+.inl{
+    margin-top: 20px;
+}
+.inl1{
+    margin-top: 20px;
+    width: 40%;
+    height: 200px;
+}
+.psin{
+    margin-left: 100px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+   width: 10%;
+   height: 25px;
+}
